@@ -1,8 +1,7 @@
 # 🚀 Ibrahim Kamraoui's GitHub Repo
 
-**Ibr4h3m-k4m/Ibr4h3m-k4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ibr4h3m-k4m/Ibr4h3m-k4m** is a ✨ _special_ ✨ repository because its a `README.md` File About me.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making a better portfolio
 - 🌱 I’m currently learning FastAPI advanced concepts
