@@ -11,7 +11,7 @@ Recent Computer Systems Engineering graduate passionate about building scalable 
 - **Currently Learning**: Advanced FastAPI patterns, Docker orchestration, Cloud deployment
 
 ### 🌟 Featured Projects
-- 🔐 **[FastAPI CRUD API](https://github.com/Ibr4h3m-k4m/FastApiRoadMapWithGpt)** - Complete REST API with JWT auth
+- 🔐 **[FastAPI CRUD API]([https://github.com/Ibr4h3m-k4m/FastApiRoadMapWithGpt](https://github.com/Ibr4h3m-k4m/FastAPI-Personal-Finance-Tracker))** - Complete REST API with JWT auth
 - 🌤️ **[Weather API Service](https://github.com/Ibr4h3m-k4m/Weather-open-meteo-API-Project)** - Weather data aggregation
 - 📚 **[Academic Platform Backend](https://github.com/Ibr4h3m-k4m/DS_DB_Backend_3rd_YearPROJECT)** - Django REST + Docker
 
