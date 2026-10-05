@@ -17,7 +17,7 @@ Master's student in **Telecommunications Networks at ÉTS (École de technologie
 - **Automation & Backend**: Python, FastAPI, Django, Django REST Framework
 - **Data & ML**: pandas, NumPy, scikit-learn, XGBoost, Matplotlib
 - **Databases**: PostgreSQL, MySQL, SQLAlchemy
-- **Tools**: Linux (Kali), Docker, Git, Postman
+- **Tools & DevSecOps**: Linux (Kali), Docker, Git, GitHub Actions (CI/CD), Postman
 - **Currently learning**: VoIP and QoS, advanced FastAPI, Docker orchestration, cloud deployment
 
 ### 🌟 Featured Projects
@@ -31,7 +31,7 @@ Master's student in **Telecommunications Networks at ÉTS (École de technologie
 - 🔐 **[FastAPI CRUD API](https://github.com/Ibr4h3m-k4m/FastAPI-Personal-Finance-Tracker)** - Complete REST API (Finance Tracker)
 - 🌤️ **[Weather API Service](https://github.com/Ibr4h3m-k4m/Weather-open-meteo-API-Project)** - Weather data aggregation
 - 📚 **[Academic Platform Backend](https://github.com/Ibr4h3m-k4m/DS_DB_Backend_3rd_YearPROJECT)** - Django REST + Docker
-- 🛠️ **[MonArtisan](https://github.com/medyoucef/artisan)** *(team project, contributor)* - Web platform connecting clients with local artisans (Laravel, Docker)
+- 🛡️ **[MonArtisan](https://github.com/medyoucef/artisan)** *(team project, DevSecOps contributor)* - Web platform connecting clients with local artisans (Laravel). My part: DevSecOps, including Docker containerization, CI/CD pipeline with GitHub Actions, and automated code quality and security checks
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibr4h3m-k4m&show_icons=true&theme=radical)
