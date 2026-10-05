@@ -1,19 +1,37 @@
 # 👋 Hi, I'm Ibrahim Kamraoui (@Ibr4h3m-k4m)
 
-## 🚀 Backend Developer | Python Enthusiast | Building Production-Ready APIs
+## 📡 Telecom & Network Engineering Student | Python | Network Automation | Backend
 
-Recent Computer Systems Engineering graduate passionate about building scalable backend systems and RESTful APIs. I love creating clean, maintainable code and learning new technologies.
+Master's student in **Telecommunications Networks at ÉTS (École de technologie supérieure), Montréal**, with a background in Computer Systems Engineering. I like understanding how networks work from the signal up to the API, and automating what can be automated.
+
+🗣️ French · Arabic · English
+
+### 🎯 Currently
+- 🔎 Looking for a **summer 2027 internship** in networking, network automation (NetDevOps) or telecom
+- 🧪 Building multi-site **VoIP and QoS labs** in Cisco Packet Tracer (VLANs, trunking, WAN link, dial-peers, DSCP marking)
+- 📞 Working on a VoIP project: **DiffServ QoS and call quality (MOS)** on an Asterisk platform
+- 📚 Studying VoIP, optical networks (WDM) and QoS at ÉTS
 
 ### 🛠️ Tech Stack
-- **Backend**: Python, FastAPI, Django, Django REST Framework
+- **Networking & Telecom**: Cisco IOS, Cisco Packet Tracer, GNS3, VLAN / trunking, VoIP (SIP, Asterisk), QoS (DiffServ), Erlang traffic dimensioning
+- **Automation & Backend**: Python, FastAPI, Django, Django REST Framework
+- **Data & ML**: pandas, NumPy, scikit-learn, XGBoost, Matplotlib
 - **Databases**: PostgreSQL, MySQL, SQLAlchemy
-- **Tools**: Docker, Git, Postman, Linux
-- **Currently Learning**: Advanced FastAPI patterns, Docker orchestration, Cloud deployment
+- **Tools**: Linux (Kali), Docker, Git, Postman
+- **Currently learning**: VoIP and QoS, advanced FastAPI, Docker orchestration, cloud deployment
 
 ### 🌟 Featured Projects
+
+**Networking & Telecom**
+- 📞 **[MGR840 Lab 1 – Voice & Traffic Engineering](https://github.com/Ibr4h3m-k4m/REPO-NAME)** - µ-law vs uniform quantization, voice activity detection with ML (Logistic Regression, Random Forest), bandwidth savings, and Erlang B trunk sizing with XGBoost traffic forecasting
+- 🎙️ **MGR840 Final Project** *(in progress)* - Experimental evaluation of DiffServ QoS and perceived call quality on an Asterisk VoIP testbed built in GNS3
+- 📶 **MGR840 Lab 2 – QoS for IP Telephony** *(in progress)* - Multi-site VoIP network in Packet Tracer: voice/data VLANs, WAN link, dial-peers, DSCP classification and marking, and call quality under congestion with and without QoS
+
+**Backend & Web**
 - 🔐 **[FastAPI CRUD API](https://github.com/Ibr4h3m-k4m/FastAPI-Personal-Finance-Tracker)** - Complete REST API (Finance Tracker)
 - 🌤️ **[Weather API Service](https://github.com/Ibr4h3m-k4m/Weather-open-meteo-API-Project)** - Weather data aggregation
 - 📚 **[Academic Platform Backend](https://github.com/Ibr4h3m-k4m/DS_DB_Backend_3rd_YearPROJECT)** - Django REST + Docker
+- 🛠️ **[MonArtisan](https://github.com/medyoucef/artisan)** *(team project, contributor)* - Web platform connecting clients with local artisans (Laravel, Docker)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibr4h3m-k4m&show_icons=true&theme=radical)
@@ -21,4 +39,4 @@ Recent Computer Systems Engineering graduate passionate about building scalable 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ibrahim-kamraoui-b25721248)
 - 📧 brahim.kamraoui@gmail.com
-- 💻 Open to backend development opportunities in Algeria!
+- 📍 Montréal, QC
