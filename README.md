@@ -4,10 +4,10 @@
 
 Master's student in **Telecommunications Networks at ÉTS (École de technologie supérieure), Montréal**, with a background in Computer Systems Engineering. I like understanding how networks work from the signal up to the API, and automating what can be automated.
 
-🗣️ French · Arabic · English
+🗣️ English · French · Arabic
 
 ### 🎯 Currently
-- 🔎 Looking for a **summer 2027 internship** in networking, network automation (NetDevOps) or telecom
+- 🔎 Looking for a **part-time internship** in networking, network automation (NetDevOps) or telecom
 - 🧪 Building multi-site **VoIP and QoS labs** in Cisco Packet Tracer (VLANs, trunking, WAN link, dial-peers, DSCP marking)
 - 📞 Working on a VoIP project: **DiffServ QoS and call quality (MOS)** on an Asterisk platform
 - 📚 Studying VoIP, optical networks (WDM) and QoS at ÉTS
@@ -16,8 +16,8 @@ Master's student in **Telecommunications Networks at ÉTS (École de technologie
 - **Networking & Telecom**: Cisco IOS, Cisco Packet Tracer, GNS3, VLAN / trunking, VoIP (SIP, Asterisk), QoS (DiffServ), Erlang traffic dimensioning
 - **Automation & Backend**: Python, FastAPI, Django, Django REST Framework
 - **Data & ML**: pandas, NumPy, scikit-learn, XGBoost, Matplotlib
-- **Databases**: PostgreSQL, MySQL, SQLAlchemy
-- **Tools & DevSecOps**: Linux (Kali), Docker, Git, GitHub Actions (CI/CD), Postman
+- **Databases**: PostgreSQL, MySQL
+- **Tools & DevSecOps**: Linux (Kali), Docker, Git, GitHub Actions (CI/CD), Postman, BurpSuite
 - **Currently learning**: VoIP and QoS, advanced FastAPI, Docker orchestration, cloud deployment
 
 ### 🌟 Featured Projects
